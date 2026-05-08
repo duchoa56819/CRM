@@ -6,6 +6,12 @@ Dữ liệu được phân tích dưới **7 góc nhìn chuyên sâu**, đi kèm
 
 ---
 
+## 🎓 Bạn mới làm quen với CRM?
+Nếu bạn chưa hiểu các thuật ngữ như Lead, Pipeline, Win Rate... hãy bắt đầu tại đây:
+👉 **[Khóa học cấp tốc: Làm chủ kiến thức CRM từ con số 0](./Learning_CRM/INDEX.md)**
+
+---
+
 ## 🚀 7 Góc nhìn Phân tích (7 Perspectives)
 
 Nhấn vào từng mục bên dưới để xem báo cáo chi tiết và hướng dẫn kỹ thuật (DAX) cho từng góc nhìn:
